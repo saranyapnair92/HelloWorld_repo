@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4636-104C
+
+ Directory of C:\Users\Admin\Desktop\TestProject\GIT
+
+01-04-2021  17:45    <DIR>          .
+01-04-2021  17:45    <DIR>          ..
+01-04-2021  15:22               426 HelloWorld.class
+01-04-2021  15:22               235 HelloWorld.java
+01-04-2021  16:08                 0 readme.txt.txt
+01-04-2021  17:45                 0 text.txt
+               4 File(s)            661 bytes
+               2 Dir(s)  50,048,847,872 bytes free
